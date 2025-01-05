@@ -14,7 +14,8 @@
 chrome-profiler-events*.json
 
 # IDEs and editors
-/.idea
+HealthcareManagement-Backend/.idea
+HealthcareManagement-Backend/target
 .project
 .classpath
 .c9/
